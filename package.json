@@ -1,0 +1,25 @@
+{
+  "name": "mytestproject",
+  "version": "1.0.0",
+  "description": "MyTestProject",
+  "main": "firstfile.js",
+  "dependencies": {
+    "webpack": "^4.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johnnylee1992/myTestProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Johnnylee1992/myTestProject/issues"
+  },
+  "homepage": "https://github.com/Johnnylee1992/myTestProject#readme"
+}
